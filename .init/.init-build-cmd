@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/tmp/kavia/workspace/code-generation/habit-tracker-dashboard-13944-13947/habit_tracker_database"
+}
